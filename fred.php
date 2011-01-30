@@ -1,7 +1,18 @@
-<?php echo "fred"; ?>
+<html>
+
+<head>
+<title>page title</title>
+</head>
+
+<body bgcolor="white">
+
+<h1> My first page </h1>
 
 
-content added by fred.
+<p>Content!</p>
+<p>another content</p>
 
 
-hey change made by fred again!
+</body>
+
+</html>
